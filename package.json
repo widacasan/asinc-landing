@@ -1,0 +1,23 @@
+{
+  "name": "asinc-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/widacasan/asinc-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/widacasan/asinc-landing/issues"
+  },
+  "homepage": "https://github.com/widacasan/asinc-landing#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
